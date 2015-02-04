@@ -1,5 +1,5 @@
 {
-    "name": "google/apiclient",
+    "name": "rubensr3jr/googleapiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
@@ -18,7 +18,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.1.0"
+            "stable": "1.1.0"
         }
     }
 }
